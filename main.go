@@ -28,7 +28,7 @@ const startupMessage = `
 
 func main() {
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
-		fmt.Fprintf(w, "Barev! you've requested %s\n", r.URL.Path)
+		fmt.Fprintf(w, "Barev Roman! you've requested %s\n", r.URL.Path)
 	})
 
 	port := os.Getenv("PORT")
