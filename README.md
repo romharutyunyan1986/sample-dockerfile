@@ -44,7 +44,7 @@ Here's an example code change you can make for this app:
 1. You should see a "Building..." progress indicator, just like when you first created the app.
 1. Once the build completes successfully, click the **Live App** link in the header and you should see your updated application running. You may need to force refresh the page in your browser (e.g. using **Shift** + **Reload**).
 
-## Learn More
+## Learn More gggggggggggggggggggggggggggggggggggggggggggggggg
 
 To learn more about App Platform and how to manage and update your application, see [our App Platform documentation](https://www.digitalocean.com/docs/app-platform/).
 
